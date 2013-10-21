@@ -17,7 +17,6 @@
         "128": "assets/walt-128.png"
     },
     "permissions": [
-        "experimental",
-        "appWindow"
+        "experimental"
     ]
 }
