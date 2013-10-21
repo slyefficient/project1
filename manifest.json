@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "clickingbad_efficiency",
-    "description": "the way walt would want you to do it",
-    "version": "0.1",
+    "description": "the way Walt would want you to do it",
+    "version": "0.2",
     "minimum_chrome_version": "23",
     "offline_enabled": true,
     "app": {
