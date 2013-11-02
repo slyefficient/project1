@@ -1,0 +1,23 @@
+h1 {
+    text-transform:uppercase;
+    color:blue;
+    font-weight:700;
+    text-shadow:.0625em .0625em grey;
+}
+        
+header {
+    font-weight:600;
+    font-size:1.125em;
+    padding:1;
+}
+
+footer {
+    font-weight:400;
+    font-size:0.875em;
+    padding:9;
+}
+
+body {
+    font-family:"Verdana", "Arial", sans-serif;
+    
+}
